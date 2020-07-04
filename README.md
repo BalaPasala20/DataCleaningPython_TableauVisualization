@@ -16,8 +16,8 @@ A Museum's messy data about its objects is available in MessyData_Sample.csv. Th
 * Jupyter notebook
 * Tableau-desktop
 ## Steps to run the project
-1. The python file "Clean_Data.ipynb" takes in "MessyData_Sample.csv" and outputs two .csv files - medium1.csv and Clean_Data.csv.
-2. The csv files - "medium1.csv" and "Clean_Data.csv" are taken as data source by a logical relationship by considering "Medium" as a common field.
+1. The python file "Clean_Data.ipynb" takes in "MessyData_Sample.csv" and outputs two .csv files - medium1.csv and Clean_Data.csv. The .csv files are also available in the repository.
+2. After opening the Tableau desktop, the csv files - "medium1.csv" and "Clean_Data.csv" are taken as data source by a logical relationship by considering "Medium" as a common field. The worksheets are already developed to display the charts.
 
 ### Data Cleaning using Python:
 1. "MessyData_Sample.csv" has messy data about the museum's objects.
